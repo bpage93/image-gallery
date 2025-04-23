@@ -10,7 +10,7 @@ export default function About() {
                 <p>
                     Welcome to our image gallery—a vibrant, ever-growing
                     collection of visuals designed to inspire, inform, and
-                    connect people from all walks of life. Whether you're a
+                    connect people from all walks of life. Whether you&apos;re a
                     professional designer, a student working on a class project,
                     or simply someone who loves browsing beautiful imagery, this
                     gallery has something for everyone. From breathtaking
@@ -23,7 +23,7 @@ export default function About() {
                     resonate with your unique needs and aesthetic sensibilities.
                     We meticulously curate our collection, ensuring a blend of
                     high-quality, royalty-free images that are ready for your
-                    creative endeavors. Whether you're seeking the perfect
+                    creative endeavors. Whether you&apos;re seeking the perfect
                     backdrop for your website, compelling visuals for your
                     marketing materials, or simply a moment of visual delight,
                     we invite you to explore the richness and variety our

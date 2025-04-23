@@ -30,20 +30,6 @@ export default function Header() {
                 >
                     Contact
                 </button>
-
-                {/* <Link
-                    href="./src/app/about/page.tsx"
-                    className="text-white hover:underline"
-                >
-                    contact
-                </Link>
-
-                <Link
-                    href="/about/page.tsx"
-                    className="text-white hover:underline"
-                >
-                    about
-                </Link> */}
             </div>
         </header>
     );
