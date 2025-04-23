@@ -143,10 +143,10 @@ export default function Article({ searchTerm }: ArticleProps) {
     if (photos.length === 0) {
         return (
             <p className="text-center mt-8">
-                No photos found for "
+                No photos found for
                 {currentQuery ||
                     (searchTerm.trim() === "" ? defaultQuery : searchTerm)}
-                ". Try a different search.
+                . Try a different search.
             </p>
         );
     }
